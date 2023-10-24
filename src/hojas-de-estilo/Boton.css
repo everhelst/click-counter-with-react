@@ -1,0 +1,27 @@
+button {
+    width: 250px;
+    height: 80px;
+    font-family: Roboto, sans-serif ;
+    font-weight: bold;
+    font-size: 60px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin: 5px;
+    cursor: pointer; /*crear el efecto de boton cambia la flecha del mouse por una mano*/
+}
+
+button:hover {
+    background-color: #00471b;
+}
+
+
+
+.boton-clic {
+    background-color: #002ead;
+}
+
+.boton-reiniciar {
+    background-color: #5a01a7 ;
+}
+
